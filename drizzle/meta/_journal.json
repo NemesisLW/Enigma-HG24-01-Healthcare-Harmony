@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713163074387,
+      "tag": "0000_silly_starbolt",
+      "breakpoints": true
+    }
+  ]
+}
