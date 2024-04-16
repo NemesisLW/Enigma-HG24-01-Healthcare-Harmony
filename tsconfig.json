@@ -28,7 +28,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "lib/config/site.js",
-    "components/sections/Features.jsx"
+    "components/sections/features.jsx"
   ],
   "exclude": ["node_modules"]
 }
